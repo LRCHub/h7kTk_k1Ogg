@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "outcry",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-01-02T07:34:21.801512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Outcry",
+      "artist": "Dream Theater",
+      "has_synced": false,
+      "path": "select/01_Outcry_Dream_Theater.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective Remix)",
+      "artist": "Bring Me The Horizon feat. Outcry Collective",
+      "has_synced": true,
+      "path": "select/02_Suicide_Season_(Outcry_Collective_Remix)_Bring_Me_The_Horizon_feat._Outcry_Collective.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective)",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/03_Suicide_Season_(Outcry_Collective)_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective Remix)",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/04_Suicide_Season_(Outcry_Collective_Remix)_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Outcry",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/05_Outcry_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Outcry",
+      "artist": "Never Ending Game",
+      "has_synced": true,
+      "path": "select/06_Outcry_Never_Ending_Game.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective Remix)",
+      "artist": "Bring Me The Horizon feat. Outcry Collective",
+      "has_synced": true,
+      "path": "select/07_Suicide_Season_(Outcry_Collective_Remix)_Bring_Me_The_Horizon_feat._Outcry_Collective.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective remix)",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/08_Suicide_Season_(Outcry_Collective_remix)_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective remix)",
+      "artist": "Bring Me the Horizon & Outcry Collective",
+      "has_synced": true,
+      "path": "select/09_Suicide_Season_(Outcry_Collective_remix)_Bring_Me_the_Horizon_&_Outcry_Collective.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Disconnect: The Outcry",
+      "artist": "See The Light",
+      "has_synced": false,
+      "path": "select/10_Disconnect__The_Outcry_See_The_Light.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Suicide Seasion (Outcry Collective Remix)",
+      "artist": "Bring Me The Horizon",
+      "has_synced": true,
+      "path": "select/11_Suicide_Seasion_(Outcry_Collective_Remix)_Bring_Me_The_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sacred Outcry",
+      "artist": "Sacred Outcry",
+      "has_synced": true,
+      "path": "select/12_Sacred_Outcry_Sacred_Outcry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Outcry (Instrumental)",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/13_Outcry_(Instrumental)_Dream_Theater.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "outcry",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/14_outcry_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective)",
+      "artist": "Bring Me the Horizon",
+      "has_synced": true,
+      "path": "select/15_Suicide_Season_(Outcry_Collective)_Bring_Me_the_Horizon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Suicide Season (Outcry Collective Remix)",
+      "artist": "Bring Me The Horizon/Outcry Collective",
+      "has_synced": true,
+      "path": "select/16_Suicide_Season_(Outcry_Collective_Remix)_Bring_Me_The_Horizon_Outcry_Collective.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Outcry",
+      "artist": "Dream Theater",
+      "has_synced": true,
+      "path": "select/17_Outcry_Dream_Theater.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "outcry",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_outcry_あたらよ.txt"
+    }
+  ]
+}
